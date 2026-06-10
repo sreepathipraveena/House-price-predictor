@@ -1,4 +1,4 @@
-<img width="3000" height="1800" alt="actual_vs_predicted" src="https://github.com/user-attachments/assets/e8e8922e-c9ba-4c49-862e-4572536210e8" /># California Housing Price Prediction
+# California Housing Price Prediction
 
 ## Overview
 
@@ -186,7 +186,7 @@ The project successfully demonstrates an end-to-end machine learning workflow, i
 
 <img width="4500" height="1800" alt="residuals_analysis" src="https://github.com/user-attachments/assets/3b526679-d24a-4e29-afd5-b69645c9666f" />
 <img width="3000" height="1800" alt="target_distribution" src="https://github.com/user-attachments/assets/4620e9e7-ac6a-4611-9697-69ee0ca9ca0f" />
-
+<img width="3000" height="1800" alt="actual_vs_predicted" src="https://github.com/user-attachments/assets/e8e8922e-c9ba-4c49-862e-4572536210e8" />
 
 ## Author
 
