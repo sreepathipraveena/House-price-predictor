@@ -39,7 +39,7 @@ st.markdown("""
         margin-bottom: 0.5rem;
     }
 </style>
-""", unsafe_style_type=True, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 # Load Model
 @st.cache_resource
@@ -141,3 +141,4 @@ else:
         
 st.markdown("---")
 st.markdown("California Housing Model • Generated using Scikit-Learn Pipeline & Streamlit")
+
