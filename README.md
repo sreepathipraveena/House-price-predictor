@@ -181,7 +181,11 @@ The current implementation serves as a baseline model. Future improvements may i
 
 ## Results
 
-The project successfully demonstrates an end-to-end machine learning workflow, including data preparation, model development, evaluation, and interpretation. The baseline Linear Regression model provides meaningful predictive capability and establishes a benchmark for more sophisticated approaches.
+The project successfully demonstrates an end-to-end machine learning workflow, including data preparation, model development, evaluation, and interpretation. The baseline Linear Regression model provides meaningful predictive capability and establishes a benchmark for more sophisticated approaches.<img width="3600" height="3000" alt="correlation_matrix" src="https://github.com/user-attachments/assets/207b7296-d42d-4ee9-8d22-5de168d9582f" />
+
+
+<img width="4500" height="1800" alt="residuals_analysis" src="https://github.com/user-attachments/assets/3b526679-d24a-4e29-afd5-b69645c9666f" />
+<img width="3000" height="1800" alt="target_distribution" src="https://github.com/user-attachments/assets/4620e9e7-ac6a-4611-9697-69ee0ca9ca0f" />
 
 
 ## Author
